@@ -1,0 +1,15 @@
+{
+    "name": "solid-base/nats",
+    "autoload": {
+        "psr-4": {
+            "SolidBase\\Nats\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Luiz",
+            "email": "guilhermelpp.eng@gmail.com"
+        }
+    ],
+    "require": {}
+}
