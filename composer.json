@@ -1,5 +1,8 @@
 {
-    "name": "solid-base/nats",
+    "name": "solid-base/client-nats",
+    "description": "Nats.IO client for PHP",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "SolidBase\\Nats\\": "src/"
@@ -8,8 +11,10 @@
     "authors": [
         {
             "name": "Guilherme Luiz",
-            "email": "guilhermelpp.eng@gmail.com"
+            "email": "guilherme@solidbase.com.br"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.1"
+    }
 }
