@@ -3,6 +3,7 @@
     "description": "Nats.IO client for PHP",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "version": "0.0.1",
     "autoload": {
         "psr-4": {
